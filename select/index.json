@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "positions",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-26T19:22:50.101278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "positions",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_positions_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "positions",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_positions_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "positions",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/03_positions_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Positions.",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_Positions._Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "positions",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_positions_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fixed Positions",
+      "artist": "Andrew Bird",
+      "has_synced": true,
+      "path": "select/06_Fixed_Positions_Andrew_Bird.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "positions",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/07_positions_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "positions",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_positions_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Switch Positions",
+      "artist": "Joe Budden feat. Omarion",
+      "has_synced": false,
+      "path": "select/09_Switch_Positions_Joe_Budden_feat._Omarion.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Switch Positions",
+      "artist": "Joe Budden",
+      "has_synced": false,
+      "path": "select/10_Switch_Positions_Joe_Budden.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Positions",
+      "artist": "Rain Paris",
+      "has_synced": true,
+      "path": "select/11_Positions_Rain_Paris.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Positions",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/12_Positions_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "positions",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/13_positions_Ariana_Grande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "positions",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_positions_Ariana_Grande.txt"
+    }
+  ]
+}
